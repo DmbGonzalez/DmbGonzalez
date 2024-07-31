@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DmbGonzalez
-- 👀 I’m interested in Learning different Technologies and Programming Languages, Web Sites, Mobile Applications, Games, etc. 
+- 👀 I’m interested in Learning different Technologies and Programming Languages, also as the Building of Web sites, Mobile applications, Games, etc. 
 - 🌱 I’m currently learning Python, JAVA, PHP etc
 - 💞️ I’m looking to collaborate on many different projects, so just count me in already!
 - 😄 Pronouns: She/her
