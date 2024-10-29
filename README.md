@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DmbGonzalez
-- 👀 I’m highly interested in participating in many Projects such as the building of Web sites, Mobile applications, Games, using different Programming languages and Technologies. 
+- 👀 I’m highly interested in participating in many projects such as the building of web sites, mobile applications and games
 - 🌱 I’m currently learning Python, JAVA, PHP etc
-- 💞️ I’m looking to collaborate on different projects, so just count me in already! ♥
+- 💞️ I’m looking to collaborate, so just count me in already! ♥
 - 😄 Pronouns: She/her
 
 
